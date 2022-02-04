@@ -10,4 +10,4 @@ console.log(idade / 2);
 console.log(idade * 2);
 
 const idadeSomada = idade + 5;
-console.log(idadeSomada);
+console.log(idadeSomada);   
